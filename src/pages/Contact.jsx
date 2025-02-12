@@ -1,8 +1,6 @@
 import React from 'react';
 import { FaPhone } from 'react-icons/fa';
 import { FaEnvelope, FaMapLocation } from 'react-icons/fa6';
-import { Map, GoogleApiWrapper } from 'google-maps-react';
-import { img_url } from '../assets/constants';
 
 
 const Contact = (props) => {

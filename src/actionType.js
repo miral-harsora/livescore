@@ -1,0 +1,4 @@
+export const ADD_SCORES="ADD_SCORES"
+export const DELETE_SCORES="DELETE_SCORES"
+export const GET_POP_PLAYERS="GET_POP_PLAYERS"
+export const SHOW_MODAL="SHOW_MODAL"
